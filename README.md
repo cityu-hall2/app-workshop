@@ -1,1 +1,3 @@
-# app-workshop
+# Slot Machine
+
+- ![screenshot](./ss.png)
